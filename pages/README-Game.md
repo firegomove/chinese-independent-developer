@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 3 号添加
+
+#### firegomove(广东) - [Github](https://github.com/firegomove)
+* :white_check_mark: [PixelArtGame](https://pixelartgame.online/)：一款结合了像素艺术与轻松玩法的网页游戏。无需下载安装，打开即可游玩。游戏以复古像素画风为核心，配合轻快的背景音乐，营造出沉浸式的游戏体验。无论是怀旧玩家还是休闲爱好者，都能快速找到属于自己的乐趣。
+
 ### 2026 年 8 月 28 号添加
 
 #### ethanethan(上海) - [Github](https://github.com/lianyixin)
